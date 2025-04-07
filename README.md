@@ -1,8 +1,11 @@
 # CrudJava
 ![Java](https://img.shields.io/badge/Java-red?logo=openjdk)
+
 ![Database: SQLite](https://img.shields.io/badge/SQLite-blue?logo=sqlite)
+
 ![Platform: Windows](https://img.shields.io/badge/Windows-blue?logo=windows) ![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=yellow) 
-![Last Commit](https://img.shields.io/github/last-commit/example/crudjava?color=yellow&logo=github) ![Size](https://img.shields.io/github/repo-size/example/crudjava?color=blue&logo=files) ![License](https://img.shields.io/github/license/example/crudjava?color=black&logo=open-source-initiative)
+
+![Last Commit](https://img.shields.io/github/last-commit/example/crudjava?color=yellow&logo=github) 
 
 ## 1. Description
 A **CRUD application prototype** developed in **pure Java**, utilizing an **SQLite3 database** for individual registration. The project is built for simplicity and functionality, featuring robust data handling and validation.
